@@ -1,7 +1,5 @@
 # Finding Joy in Reviewing Code Notes
 
-## What Are Code Reviews?
-
 ## Why Should You Care About Code Reviews?
 * Find mistakes before any stage tests
 * Learn from more experienced developers
