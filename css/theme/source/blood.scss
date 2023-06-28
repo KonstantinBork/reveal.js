@@ -15,10 +15,6 @@
 @import "../template/settings";
 // ---------------------------------------------
 
-// Include theme-specific fonts
-
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,700,300italic,700italic);
-
 // Colors used in the theme
 $blood: #a23;
 $coal: #222;
@@ -27,11 +23,11 @@ $codeBackground: #23241f;
 $backgroundColor: $coal;
 
 // Main text
-$mainFont: Ubuntu, 'sans-serif';
+$mainFont: 'sans-serif';
 $mainColor: #eee;
 
 // Headings
-$headingFont: Ubuntu, 'sans-serif';
+$headingFont: 'sans-serif';
 $headingTextShadow: 2px 2px 2px $coal;
 
 // h1 shadow, borrowed humbly from 
